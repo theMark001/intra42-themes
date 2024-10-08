@@ -26,4 +26,13 @@
 
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/inventor.user.css)
 
-![Hollow Knight]()
+![Inventor]()
+
+### Star
+
+> background image is gif
+
+[Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/star.user.css)
+
+![Star]()
+
