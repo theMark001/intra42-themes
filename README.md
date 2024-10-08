@@ -12,6 +12,8 @@
 
 ### Hollow Knight
 
+> background image is gif
+
 [Install](hollow_knight.user.css)
 
 ![Hollow Knight](imgs/hollow-knight.png)
