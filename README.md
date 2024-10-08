@@ -24,6 +24,6 @@
 
 > background image is gif
 
-[Install]()
+[Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/inventor.user.css)
 
 ![Hollow Knight]()
