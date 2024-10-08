@@ -10,8 +10,10 @@
 
 4. The stylus extension should open up with a button to install the style.
 
+
 ## Style Themes
 
+---
 ### Hollow Knight
 
 > background image is gif
@@ -19,7 +21,7 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/hollow_knight.user.css)
 
 ![Hollow Knight](imgs/hollow-knight.png)
-
+---
 ### Inventor
 
 > background image is gif
@@ -27,7 +29,7 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/inventor.user.css)
 
 ![Inventor](imgs/inventor.png)
-
+---
 ### Star
 
 > background image is gif
@@ -35,7 +37,7 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/star.user.css)
 
 ![Star](imgs/star.png)
-
+---
 ### Your Name
 
 > background image is gif
@@ -43,7 +45,7 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/your_name.user.css)
 
 ![Your Name](imgs/your-name.png)
-
+---
 ### Rudeus Splash
 
 > background image is gif
@@ -51,3 +53,4 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/rudeus_splash.user.css)
 
 ![Rudeus Splash](imgs/rudeus-splash.png)
+---
