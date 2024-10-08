@@ -11,3 +11,7 @@
 ## Style Themes
 
 ### Hollow Knight
+
+[Install](https://github.com/refact0r/monkeytype-themes/raw/main/iceland.user.css)
+
+![Hollow Knight](https://markdown-here.com/img/icon256.png)
