@@ -1,0 +1,42 @@
+/* ==UserStyle==
+@name           intra 42 rudeus splash
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Rudeus Splash theme for Intra 42
+@author         mars
+@homepageURL    https://github.com/theMark001/intra42-themes
+@updateURL      https://github.com/theMark001/intra42-themes/raw/refs/heads/main/rudeus_splash.user.css
+==/UserStyle== */
+
+@-moz-document domain("intra.42.fr") {
+	.profile-item-top {
+		background-image: url(https://media1.tenor.com/m/HIojFhUnYNkAAAAd/rudeus-splash-flow.gif) !important;
+	}
+
+	:root {
+	--theme-color: #A8968B;
+	--theme-color-dark: var(--theme-color);
+	--theme-color-light: var(--theme-color);
+	--logtime-chart-24h-color: var(--theme-color);
+	}
+
+	.coalition-span {
+		color: var(--theme-color) !important; 
+	}
+
+	.user-header-box {
+		ol {
+				li {
+						background-color: var(--theme-color) !important; 
+				}
+		}
+	}
+
+	.coalition-flag--flag {
+		fill: var(--theme-color) !important;
+	}
+
+	.progress-bar {
+		background-color:var(--theme-color) !important;
+	}
+}

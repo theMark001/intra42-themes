@@ -43,3 +43,11 @@
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/your_name.user.css)
 
 ![Your Name]()
+
+### Rudeus Splash
+
+> background image is gif
+
+[Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/rudeus_splash.user.css)
+
+![Rudeus Splash]()
