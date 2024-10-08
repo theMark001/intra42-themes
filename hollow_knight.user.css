@@ -1,46 +1,40 @@
+/* ==UserStyle==
+@name           intra 42 hollow knight
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Hollow Knight theme for Intra 42
+@author         mars
+@homepageURL    https://github.com/theMark001/intra42-themes
+@updateURL      https://github.com/theMark001/intra42-themes/blob/main/hollow_knight.user.css
+==/UserStyle== */
+
 .profile-item-top {
 	background-image: url(https://i.pinimg.com/originals/ac/23/58/ac23582ee2d39adad7713d46a8093069.gif) !important;
 }
 
-
-
-/*  
-
-
-https://64.media.tumblr.com/633918a416d9138be4e37814150e27ea/3bf95e73e5e495c8-1e/s500x750/e6b8a07a3c6058df94e6ee97eeee427cbc204595.gifv
-
-https://cdn.myportfolio.com/a7dcc6d5ac1134b2d40ac6d1c5552304/1f0a0456-b934-4f28-beee-c47de7308667_rw_1920.gif?h=5ecc8b473e70030b5e3d8b8ef826ca1c
-
-
-
-*/
-
 :root {
-/* main colors */
 --theme-color: #2b457a;
---theme-color-dark: #2b457a;
---theme-color-light: #2b457a;
-
-/* logtime chart styling (text colors) */
---logtime-chart-24h-color: #2b457a;
+--theme-color-dark: var(--theme-color);
+--theme-color-light: var(--theme-color);
+--logtime-chart-24h-color: var(--theme-color);
 }
 
 .coalition-span {
-	color: #2b457a !important; 
+	color: var(--theme-color) !important; 
 }
 
 .user-header-box {
 	ol {
 			li {
-					background-color: #2b457a !important; 
+					background-color: var(--theme-color) !important; 
 			}
 	}
 }
 
 .coalition-flag--flag {
-	fill: #2b457a !important;
+	fill: var(--theme-color) !important;
 }
 
 .progress-bar {
-	background-color:#2b457a !important;
+	background-color:var(--theme-color) !important;
 }

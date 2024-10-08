@@ -4,11 +4,11 @@
 
 1. Install the Improved Intra 42 browser extension: [Chrome](https://chromewebstore.google.com/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo?hl=en-GB&utm_source=ext_sidebar)
 
-1. Install the Stylus browser extension: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+2. Install the Stylus browser extension: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 
-2. Click a theme install link below
+3. Click a theme install link below
 
-3. The stylus extension should open up with a button to install the style.
+4. The stylus extension should open up with a button to install the style.
 
 ## Style Themes
 
