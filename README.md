@@ -7,3 +7,7 @@
 2. Click a theme install link below
 
 3. The stylus extension should open up with a button to install the style.
+
+## Style Themes
+
+### Hollow Knight
