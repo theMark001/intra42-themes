@@ -16,6 +16,6 @@
 
 > background image is gif
 
-[Install](hollow_knight.user.css)
+[Install](https://github.com/theMark001/intra42-themes/blob/main/hollow_knight.user.css)
 
 ![Hollow Knight](imgs/hollow-knight.png)
