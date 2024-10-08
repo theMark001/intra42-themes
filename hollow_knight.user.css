@@ -8,33 +8,35 @@
 @updateURL      https://github.com/theMark001/intra42-themes/raw/refs/heads/main/hollow_knight.user.css
 ==/UserStyle== */
 
-.profile-item-top {
-	background-image: url(https://i.pinimg.com/originals/ac/23/58/ac23582ee2d39adad7713d46a8093069.gif) !important;
-}
-
-:root {
---theme-color: #2b457a;
---theme-color-dark: var(--theme-color);
---theme-color-light: var(--theme-color);
---logtime-chart-24h-color: var(--theme-color);
-}
-
-.coalition-span {
-	color: var(--theme-color) !important; 
-}
-
-.user-header-box {
-	ol {
-			li {
-					background-color: var(--theme-color) !important; 
-			}
+@-moz-document domain("intra.42.fr") {
+	.profile-item-top {
+		background-image: url(https://i.pinimg.com/originals/ac/23/58/ac23582ee2d39adad7713d46a8093069.gif) !important;
 	}
-}
 
-.coalition-flag--flag {
-	fill: var(--theme-color) !important;
-}
+	:root {
+	--theme-color: #2b457a;
+	--theme-color-dark: var(--theme-color);
+	--theme-color-light: var(--theme-color);
+	--logtime-chart-24h-color: var(--theme-color);
+	}
 
-.progress-bar {
-	background-color:var(--theme-color) !important;
+	.coalition-span {
+		color: var(--theme-color) !important; 
+	}
+
+	.user-header-box {
+		ol {
+				li {
+						background-color: var(--theme-color) !important; 
+				}
+		}
+	}
+
+	.coalition-flag--flag {
+		fill: var(--theme-color) !important;
+	}
+
+	.progress-bar {
+		background-color:var(--theme-color) !important;
+	}
 }
