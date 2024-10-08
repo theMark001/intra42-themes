@@ -26,7 +26,7 @@
 
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/inventor.user.css)
 
-![Inventor]()
+![Inventor](imgs/inventor.png)
 
 ### Star
 
@@ -34,7 +34,7 @@
 
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/star.user.css)
 
-![Star]()
+![Star](imgs/star.png)
 
 ### Your Name
 
@@ -42,7 +42,7 @@
 
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/your_name.user.css)
 
-![Your Name]()
+![Your Name](imgs/your-name.png)
 
 ### Rudeus Splash
 
@@ -50,4 +50,4 @@
 
 [Install](https://github.com/theMark001/intra42-themes/raw/refs/heads/main/rudeus_splash.user.css)
 
-![Rudeus Splash]()
+![Rudeus Splash](imgs/rudeus-splash.png)
