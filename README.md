@@ -12,6 +12,6 @@
 
 ### Hollow Knight
 
-[Install](https://github.com/refact0r/monkeytype-themes/raw/main/iceland.user.css)
+[Install](hollow_knight.user.css)
 
-![Hollow Knight](https://markdown-here.com/img/icon256.png)
+![Hollow Knight](imgs/hollow-knight.png)
