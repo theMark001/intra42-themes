@@ -2,6 +2,8 @@
 
 ## How to use
 
+1. Install the Improved Intra 42 browser extension: [Chrome](https://chromewebstore.google.com/detail/improved-intra-42/hmflgigeigiejaogcgamkecmlibcpdgo?hl=en-GB&utm_source=ext_sidebar)
+
 1. Install the Stylus browser extension: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 
 2. Click a theme install link below
