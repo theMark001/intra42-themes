@@ -54,4 +54,8 @@
 	.progress-bar {
 		background-color:var(--theme-color) !important;
 	}
+
+	.fc-event:not([style*="background"]) {
+		background: var(--theme-color) !important;
+	}
 }
